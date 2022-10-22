@@ -1,9 +1,14 @@
+using BethanysPieShop.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 //makes sure that the application takes a look at the appsettings.json
 //loads the default log settings
 //set up iis integration
 //www for static files
 //access to collection services
+
+builder.Services.AddScoped<ICategoryRepository, MockCategoryRepository>();
+builder.Services.AddScoped<IPieRepository, MockPieRepository>();
 
 builder.Services.AddControllersWithViews(); 
 //makes sure that the application knows about MVC
