@@ -19,3 +19,5 @@ C:\Users\mmamo\OneDrive - Planet DDS\Desktop\Repo\PieShop\BethanysPieShop\obj\De
 C:\Users\mmamo\OneDrive - Planet DDS\Desktop\Repo\PieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.pdb
 C:\Users\mmamo\OneDrive - Planet DDS\Desktop\Repo\PieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.genruntimeconfig.cache
 C:\Users\mmamo\OneDrive - Planet DDS\Desktop\Repo\PieShop\BethanysPieShop\obj\Debug\net6.0\ref\BethanysPieShop.dll
+C:\Users\mmamo\OneDrive - Planet DDS\Desktop\Repo\PieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\mmamo\OneDrive - Planet DDS\Desktop\Repo\PieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.RazorAssemblyInfo.cs
